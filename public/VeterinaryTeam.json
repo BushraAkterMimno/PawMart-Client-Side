@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Ahmed",
+    "specialty": "Pet Surgery",
+    "experience": 8,
+    "photo": "https://i.ibb.co.com/Y70mHrw1/doctor-medicine-medical-health-hospital.jpg",
+    "bio": "Expert in small animal surgery with 8 years of experience."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Rahman",
+    "specialty": "General Veterinary Care",
+    "experience": 10,
+    "photo": "https://i.ibb.co.com/YTNn809d/download-12.jpg",
+    "bio": "Dedicated to preventive care and overall pet wellness."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Ayesha Khan",
+    "specialty": "Dermatology",
+    "experience": 6,
+    "photo": "https://i.ibb.co.com/fY6f4wR6/Caroline-Andrade-M-dica-Veterin-ria-on.jpg",
+    "bio": "Specialist in pet skin and coat health."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Imran Hossain",
+    "specialty": "Dental Care",
+    "experience": 7,
+    "photo": "https://i.ibb.co.com/3w37QPw/Empowering-patients-with-expert-guidance-and-personalized-care-for-optimal-health-results-Premium-AI.jpg",
+    "bio": "Focused on dental hygiene and oral health for pets."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Fatima Noor",
+    "specialty": "Internal Medicine",
+    "experience": 9,
+    "photo": "https://i.ibb.co.com/7xG7xv8x/download-14.jpg",
+    "bio": "Experienced in diagnosing and treating internal diseases."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Arif Chowdhury",
+    "specialty": "Emergency Care",
+    "experience": 12,
+    "photo": "https://i.ibb.co.com/fYj1gyT2/Smiling-doctor-in-a-white-lab-coat-with-a-stethoscope-posing-confidently-indoors-Premium-AI-generate.jpg",
+    "bio": "Skilled in emergency response and critical care."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Nadia Karim",
+    "specialty": "Nutrition Specialist",
+    "experience": 5,
+    "photo": "https://i.ibb.co.com/4RKwwV8m/Powered-By-Dexine.jpg",
+    "bio": "Provides expert nutritional guidance for pets."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Rafiq Islam",
+    "specialty": "Cardiology",
+    "experience": 11,
+    "photo": "https://i.ibb.co.com/5g37jDyr/Trusted-Dental-Staffing-Agency-Fast-Reliable-Staffing-Solutions-by-Mayday-Dental-Staffing.jpg",
+    "bio": "Specialist in heart health and cardiovascular care."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Laila Sultana",
+    "specialty": "Behavioral Therapy",
+    "experience": 6,
+    "photo": "https://i.ibb.co.com/TQ4hXp9/Nurse.jpg",
+    "bio": "Helps improve pet behavior and training."
+  },
+  {
+    "id": 10,
+    "name": "Dr. Hasan Mahmud",
+    "specialty": "Ophthalmology",
+    "experience": 8,
+    "photo": "https://i.ibb.co.com/gZsX0yh1/download-11.jpg",
+    "bio": "Focused on eye care and vision improvement for pets."
+  },
+  {
+    "id": 11,
+    "name": "Dr. Nadia Rahman",
+    "specialty": "Orthopedics",
+    "experience": 7,
+    "photo": "https://i.ibb.co.com/rfRXBb5D/Watch-Full-Video.jpg",
+    "bio": "Expert in bone and joint treatments."
+  },
+  {
+    "id": 12,
+    "name": "Dr. Tanvir Alam",
+    "specialty": "Exotic Pets",
+    "experience": 4,
+    "photo": "https://i.ibb.co.com/pvd4rnzN/Medium-shot-smiley-veterinarian-posing-with-uniform-Premium-Photo.jpg",
+    "bio": "Specialist in care for exotic and small mammals."
+  }
+]

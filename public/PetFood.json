@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Dog Kibble",
+    "category": "Food",
+    "price": 25,
+    "location": "New York",
+    "description": "Nutritious kibble for all dog breeds.",
+    "image": "https://i.ibb.co.com/tTvbgn4V/Nulo-Puppy-Food-Grain-Free-Dry-Food-With-Bc30-Probiotic-And-Dha-Salmon-And-Peas-Recipe-11-Lb-Bag.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Organic Cat Food",
+    "category": "Food",
+    "price": 20,
+    "location": "Los Angeles",
+    "description": "Healthy organic cat food with real meat.",
+    "image": "https://i.ibb.co.com/bgqtsxHX/Organix-Grain-Free-Organic-Dry-Cat-Food-Check.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Puppy Growth Formula",
+    "category": "Food",
+    "price": 30,
+    "location": "Chicago",
+    "description": "Specially formulated for growing puppies.",
+    "image": "https://i.ibb.co.com/2YCvWFYv/Brand-Bully-Max-Features-Bully-Max-High-Protein.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Adult Dog Maintenance",
+    "category": "Food",
+    "price": 28,
+    "location": "Houston",
+    "description": "Balanced nutrition for adult dogs.",
+    "image": "https://i.ibb.co.com/B5whkz9V/Suitable-for-Rottweilers-aged-18-months-old-and.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Senior Cat Diet",
+    "category": "Food",
+    "price": 24,
+    "location": "Phoenix",
+    "description": "Supports healthy aging in cats.",
+    "image": "https://i.ibb.co.com/PG0hYgDm/Hill-s-Science-Diet-Senior-11-Chicken-Recipe-Dry.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Grain-Free Dog Food",
+    "category": "Food",
+    "price": 32,
+    "location": "Philadelphia",
+    "description": "Perfect for dogs with grain sensitivities.",
+    "image": "https://i.ibb.co.com/3YvKy6Qh/Your-dog-deserves-the-best-scientifically-proven.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chicken & Rice Cat Meal",
+    "category": "Food",
+    "price": 22,
+    "location": "San Antonio",
+    "description": "Delicious chicken and rice formula for cats.",
+    "image": "https://i.ibb.co.com/1GGvLPhh/Go-Cat-Complete-Senior-Cat-Chicken-Rice-and-Veg-2kg-PK4-111308.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fish Flavored Dog Treats",
+    "category": "Food",
+    "price": 15,
+    "location": "San Diego",
+    "description": "Tasty fish treats for dogs.",
+    "image": "https://i.ibb.co.com/TD541dm4/PRICES-MAY-VARY-Skipper.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kitten Starter Food",
+    "category": "Food",
+    "price": 18,
+    "location": "Dallas",
+    "description": "High-protein food for kittens.",
+    "image": "https://i.ibb.co.com/xKvpx1Nd/Authority-veterinarian-recommended-products.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Beef Dog Snacks",
+    "category": "Food",
+    "price": 20,
+    "location": "San Jose",
+    "description": "Crunchy beef snacks dogs love.",
+    "image": "https://i.ibb.co.com/RT47XZhT/Our-mixed-meat-balls-combine-the-goodness-of-our.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vegetarian Cat Food",
+    "category": "Food",
+    "price": 21,
+    "location": "Austin",
+    "description": "Healthy vegetarian meal for cats.",
+    "image": "https://i.ibb.co.com/VpJfZkbs/My-Cat-the-Vegan-GOOD.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lamb & Rice Dog Food",
+    "category": "Food",
+    "price": 27,
+    "location": "Jacksonville",
+    "description": "Gentle on stomachs, nutritious lamb and rice.",
+    "image": "https://i.ibb.co.com/Y7sdGPHF/Made-in-the-USA-High-quality-lamb-and-rice-dog.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Salmon & Potato Cat Meal",
+    "category": "Food",
+    "price": 26,
+    "location": "Fort Worth",
+    "description": "Rich in omega-3, perfect for cats.",
+    "image": "https://i.ibb.co.com/hFVMWtj8/Open-Farm-s-Salmon-Topper-is-a-must-have-for-your.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Puppy Training Treats",
+    "category": "Food",
+    "price": 16,
+    "location": "Columbus",
+    "description": "Small treats ideal for puppy training.",
+    "image": "https://i.ibb.co.com/zHbrXvsk/Pet-Botanics-Training-Rewards-are-perfect-for.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Multi-Vitamin Cat Snacks",
+    "category": "Food",
+    "price": 19,
+    "location": "Charlotte",
+    "description": "Supports cat health with added vitamins.",
+    "image": "https://i.ibb.co.com/Lz5kZKps/COMPLESSO-IMMUN-BOOSTER-Vitamine-beta-glucano-ed.jpg"
+  }
+]

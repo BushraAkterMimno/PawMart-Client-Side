@@ -1,0 +1,298 @@
+[
+  { 
+    "id": 1, 
+    "image": "https://i.ibb.co.com/6Jy2sj4X/Tiny-dog-breeds-have-always-been-popular-and-for.jpg", 
+    "name": "Bella", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/1" 
+},
+
+  { 
+    "id": 2, 
+    "image": "https://i.ibb.co.com/tTq3F8BR/Ai-generated.jpg", 
+    "name": "Milo", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Chattogram", 
+    "detailsLink": "/pet/2" 
+  },
+
+  { 
+    "id": 3, 
+    "image": "https://i.ibb.co.com/fz7s1s0Y/a-white-rabbit-sitting-on-top-of-a-lush-green.jpg", 
+    "name": "Snowy", 
+    "category": "Rabbit", 
+    "price": "Free for Adoption", 
+    "location": "Sylhet", 
+    "detailsLink": "/pet/3" 
+  },
+
+  { 
+    "id": 4, 
+    "image": "https://i.ibb.co.com/x87C565J/Pretty-Bird.jpg", 
+    "name": "Sunny", 
+    "category": "Bird", 
+    "price": "Free for Adoption", 
+    "location": "Rajshahi", 
+    "detailsLink": "/pet/4" 
+  },
+
+  { 
+    "id": 5, 
+    "image": "https://i.ibb.co.com/FLwtbdYp/puppy.jpg", 
+    "name": "Rocky", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Khulna", 
+    "detailsLink": "/pet/5" 
+  },
+
+  { 
+    "id": 6, 
+    "image": "https://i.ibb.co.com/d08Y33Ck/Beautiful-Cat.jpg", 
+    "name": "Luna", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/6" 
+  },
+
+  { 
+    "id": 7, 
+    "image": "https://i.ibb.co.com/1J8mf1kG/Perro-maltipoo-la-nueva-raza-de-perro-peque-o.jpg", 
+    "name": "Max", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Barishal", 
+    "detailsLink": "/pet/7" 
+  },
+
+  { 
+    "id": 8, 
+    "image": "https://i.ibb.co.com/BHbcHvsJ/White-cat-Cute-cat-cat.jpg", 
+    "name": "Coco", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/8" 
+  },
+
+  { 
+    "id": 9, 
+    "image": "https://i.ibb.co.com/CKwCzJ9s/Bunby-My-Realistic-Bunny-Toy-0401.jpg", 
+    "name": "Bunny", 
+    "category": "Rabbit", 
+    "price": "Free for Adoption", 
+    "location": "Rangpur", 
+    "detailsLink": "/pet/9" 
+  },
+
+  { "id": 10, 
+  "image": "https://i.ibb.co.com/qM99G0N2/download-16.jpg", 
+  "name": "Bluebell", 
+  "category": "Bird", 
+  "price": "Free for Adoption", 
+  "location": "Cumilla", 
+  "detailsLink": "/pet/10" },
+
+  { 
+    "id": 11, 
+    "image": "https://i.ibb.co.com/YFJMcqBz/Ella-es-Baby-la-cachorrita-corgi-que-vas-a-querer-abrazar-en-este-momento.jpg", 
+    "name": "Charlie", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Gazipur", 
+    "detailsLink": "/pet/11" 
+  },
+
+  { 
+    "id": 12, 
+    "image": "https://i.ibb.co.com/dsGL9dqV/Cute-Little-Cat.jpg", 
+    "name": "Kitty", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Narsingdi", 
+    "detailsLink": "/pet/12" 
+  },
+
+  { 
+    "id": 13, 
+    "image": "https://i.ibb.co.com/1tT26dFp/Corgi.jpg", 
+    "name": "Bruno", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Sylhet", 
+    "detailsLink": "/pet/13" 
+  },
+
+  { 
+    "id": 14, 
+    "image": "https://i.ibb.co.com/ynyZCMMb/Prepare-to-melt-as-you-scroll-through-these-30.jpg", 
+    "name": "Whiskers", 
+    "category": "Cat", 
+    "price": "Free for Adoption", "location": "Feni", 
+    "detailsLink": "/pet/14" 
+  },
+
+  { 
+    "id": 15, 
+    "image": "https://i.ibb.co.com/wNwsc988/Budgies.jpg", 
+    "name": "Sky", 
+    "category": "Bird", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/15" 
+  },
+
+  { 
+    "id": 16, 
+    "image": "https://i.ibb.co.com/V0CrkFvp/My-Realistic-Bunny-Toy-Last-4-hours-Sale.jpg", 
+    "name": "Marshmallow", 
+    "category": "Rabbit", 
+    "price": "Free for Adoption", 
+    "location": "Chattogram", 
+    "detailsLink": "/pet/16" 
+ },
+
+  { 
+    "id": 17, 
+    "image": "https://i.ibb.co.com/XZ2qkkhy/image.jpg", 
+    "name": "Teddy", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Kushtia", 
+    "detailsLink": "/pet/17" 
+  },
+
+  { 
+    "id": 18, 
+    "image": "https://i.ibb.co.com/p6318sKZ/image.jpg", 
+    "name": "Shadow", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Rajshahi", 
+    "detailsLink": "/pet/18" 
+},
+
+  { 
+    "id": 19, 
+    "image": "https://i.ibb.co.com/5gw6jyTV/download-14.jpg", 
+    "name": "Pico", 
+    "category": "Bird", 
+    "price": "Free for Adoption", 
+    "location": "Bogura", 
+    "detailsLink": "/pet/19" 
+  },
+
+  { 
+    "id": 20, 
+    "image": "https://i.ibb.co.com/FkfjkJLz/Desert-Cottontail-Rabbit.jpg", 
+    "name": "Pumpkin", 
+    "category": "Rabbit", 
+    "price": "Free for Adoption", 
+    "location": "Mymensingh", 
+    "detailsLink": "/pet/20" 
+},
+
+  { 
+    "id": 21, 
+    "image": "https://i.ibb.co.com/2YgXHm8V/Criatividade-ilimitada-deixe-sua-imagina-o.jpg`", 
+    "name": "Daisy", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/21" 
+  },
+
+  { 
+    "id": 22, 
+    "image": "https://i.ibb.co.com/jC8b9kG/cute-cat.jpg", 
+    "name": "Oliver", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Faridpur", 
+    "detailsLink": "/pet/22" 
+  },
+
+  { 
+    "id": 23, 
+    "image": "https://i.ibb.co.com/m5gg4jBc/TOP-10-MOST-POPULAR-MALE-DOG-NAMES-Choosing.jpg", 
+    "name": "Hunter", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Chattogram", 
+    "detailsLink": "/pet/23" 
+  },
+
+  { 
+    "id": 24, 
+    "image": "https://i.ibb.co.com/S4bZN0tj/download-11.jpg", 
+    "name": "Pearl", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Pabna", 
+    "detailsLink": "/pet/24" 
+  },
+
+  { 
+    "id": 25, 
+    "image": "https://i.ibb.co.com/rK4LhNXF/download-12.jpg", 
+    "name": "Lime", 
+    "category": "Bird", 
+    "price": "Free for Adoption", 
+    "location": "Jessore", 
+    "detailsLink": "/pet/25" 
+  },
+
+  { 
+    "id": 26, 
+    "image": "https://i.ibb.co.com/HfDcZdss/Bunby-My-Realistic-Bunny-Toy.jpg", 
+    "name": "Fluffy", 
+    "category": "Rabbit", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/26" 
+  },
+
+  { 
+    "id": 27, 
+    "image": "https://i.ibb.co.com/FNKpcWL/Siberian-husky-dog-Husky-dog-lover-Husky-dog.jpg", 
+    "name": "Scout", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Sylhet", 
+    "detailsLink": "/pet/27" 
+  },
+
+  { 
+    "id": 28, 
+    "image": "https://i.ibb.co.com/FL1TxCtF/Cat-17.jpg", 
+    "name": "Ruby", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Khulna", 
+    "detailsLink": "/pet/28" 
+  },
+
+  { 
+    "id": 29, 
+    "image": "https://i.ibb.co.com/PzvWVjnX/Dog-dog-cat-pet-mammals.jpg", 
+    "name": "Jax", 
+    "category": "Dog", 
+    "price": "Free for Adoption", 
+    "location": "Barishal", 
+    "detailsLink": "/pet/29" 
+  },
+
+  { 
+    "id": 30, 
+    "image": "https://i.ibb.co.com/3yB9N2pG/Cat-dog-cat-pet-mammals.jpg", 
+    "name": "Sasha", 
+    "category": "Cat", 
+    "price": "Free for Adoption", 
+    "location": "Dhaka", 
+    "detailsLink": "/pet/30" 
+  }
+]

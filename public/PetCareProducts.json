@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Shampoo",
+    "category": "Care Products",
+    "price": 12,
+    "description": "Gentle and moisturizing shampoo for dogs.",
+    "image": "https://i.ibb.co.com/wFfh2Qmw/Lavender-Oatmeal-Pet-Shampoo-8-OZ.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cat Litter",
+    "category": "Care Products",
+    "price": 15,
+    "description": "Clumping litter that keeps your home clean.",
+    "image": "https://i.ibb.co.com/twpCYf7D/Professional-Cat-Toilet-Cat-litter-box-supplier.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pet Brush",
+    "category": "Care Products",
+    "price": 10,
+    "description": "Detangles and removes loose fur easily.",
+    "image": "https://i.ibb.co.com/3JNj9v2/PRICES-MAY-VARY-Material-The-Dog-Brush-Cat-Brush.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dog Toothpaste",
+    "category": "Care Products",
+    "price": 8,
+    "description": "Keeps your dog's teeth clean and healthy.",
+    "image": "https://i.ibb.co.com/3mVKCft1/kaezygo-Welcome-to-Our-Store-Happy.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cat Nail Clippers",
+    "category": "Care Products",
+    "price": 9,
+    "description": "Safe and easy-to-use nail clippers for cats.",
+    "image": "https://i.ibb.co.com/Jw7hhp77/Baytion-Cat-Nail-Clippers-Pet-Nail-Clippers-for.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ear Cleaning Solution",
+    "category": "Care Products",
+    "price": 11,
+    "description": "Gentle solution for cleaning pet ears.",
+    "image": "https://i.ibb.co.com/bgjY2FVc/NO-MORE-ITCHY-SCRATCHIES-Keep-your-furry.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pet Wipes",
+    "category": "Care Products",
+    "price": 7,
+    "description": "Quick cleaning wipes for pets on the go.",
+    "image": "https://i.ibb.co.com/BW8Xrhs/Dog-Grooming-Wipes-Fresh-Scent-Pet-Wipes-Dog.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dog Conditioner",
+    "category": "Care Products",
+    "price": 13,
+    "description": "Softens your dog's fur after shampoo.",
+    "image": "https://i.ibb.co.com/zTCK9SBr/download-17.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cat Grooming Gloves",
+    "category": "Care Products",
+    "price": 14,
+    "description": "Removes loose hair while petting your cat.",
+    "image": "https://i.ibb.co.com/3mvbkmqg/1-Pair-Pet-Hair-Remover-Gloves-Dog-Cat-Brush-Bath-Grooming-Massage-Cleaning-Tool.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pet Deodorant Spray",
+    "category": "Care Products",
+    "price": 10,
+    "description": "Keeps pets smelling fresh all day.",
+    "image": "https://i.ibb.co.com/tTD57h8V/Honeydew-Natural-Pet-Spray-Aromatherapy-Lavender.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pet Paw Balm",
+    "category": "Care Products",
+    "price": 12,
+    "description": "Moisturizes and protects pet paws.",
+    "image": "https://i.ibb.co.com/fY95q9Cz/Color-Multicolor-n-Pattern-Type-Animal-n-Pattern.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dog Ear Cleaner",
+    "category": "Care Products",
+    "price": 11,
+    "description": "Prevents ear infections with gentle cleaning.",
+    "image": "https://i.ibb.co.com/LzyvdHcJ/Dog-Ear-Cleaner-Wipes-Finger-Ear-Wipes-For-Dogs.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Flea & Tick Spray",
+    "category": "Care Products",
+    "price": 18,
+    "description": "Protects pets from fleas and ticks effectively.",
+    "image": "https://i.ibb.co.com/chj7427m/Does-Salt-Kill-Fleas-How-Quickly-Are-Carpet-Powders-Better.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pet Eye Wipes",
+    "category": "Care Products",
+    "price": 9,
+    "description": "Removes dirt and tear stains from pets' eyes.",
+    "image": "https://i.ibb.co.com/JRmWQ0Qc/Dog-Eye-Wipes-300-Count-Tear-Stain-Remover-Wipes.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Pet Antibacterial Shampoo",
+    "category": "Care Products",
+    "price": 15,
+    "description": "Cleans and protects pets with antibacterial formula.",
+    "image": "https://i.ibb.co.com/1Ys235jr/One-Percent-Ketoconazole-Two-Percent.jpg"
+  }
+]

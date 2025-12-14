@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/7NKrbpLk/UPSKY-Retractable-Dog-Leash-with-Flashlight-16ft-Dog-Walking-Leash-for-Small-Medium-Dog-Heavy-Duty-P.jpg",
+    "name": "Premium Dog Leash",
+    "category": "Accessories",
+    "price": 15,
+    "description": "Durable nylon leash for daily walks."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/YJ4MM9z/Cute-cat-collars.jpg",
+    "name": "Adjustable Cat Collar",
+    "category": "Accessories",
+    "price": 8,
+    "description": "Comfortable and safe collar for cats."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/rRgpjZJr/Cute-Pet-House-Cozy-Bear-Pet-Bed-Plush-Indoor.jpg",
+    "name": "Cozy Pet Bed",
+    "category": "Accessories",
+    "price": 45,
+    "description": "Soft and comfortable bed for small pets."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/RTnQSDq7/Legendog-2-PCS-Pet-Bowls-Stainless-Steel-Cat-Food.jpg",
+    "name": "Stainless Steel Bowl",
+    "category": "Accessories",
+    "price": 12,
+    "description": "Durable bowl for food or water."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/sGrFhzr/Interactive-Toy-Vibrating-ball-with-automatic.jpg",
+    "name": "Interactive Pet Ball",
+    "category": "Accessories",
+    "price": 10,
+    "description": "Keep your pet engaged with this fun toy."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/3JNj9v2/PRICES-MAY-VARY-Material-The-Dog-Brush-Cat-Brush.jpg",
+    "name": "Pet Grooming Brush",
+    "category": "Accessories",
+    "price": 14,
+    "description": "Gentle brush to remove loose hair."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/Pvz4c6qt/Amazon-com-Vecomfy-Fleece-Lining-Extra-Warm-Dog.jpg",
+    "name": "Waterproof Dog Coat",
+    "category": "Accessories",
+    "price": 25,
+    "description": "Protect your dog from rain and cold."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/jct2s4T/OAVQHLG3-B-Kitten-Teaser-Interactive-Toy-Rod-with.jpg",
+    "name": "Cat Feather Toy",
+    "category": "Accessories",
+    "price": 7,
+    "description": "Fun toy to keep cats active."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/1fvN662j/A-pet-outdoor-portable-bag-made-of-PP-PS-material.jpg",
+    "name": "Small Pet Cage",
+    "category": "Accessories",
+    "price": 55,
+    "description": "Safe and spacious cage for small pets."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/JwRQzVGt/Animalerie-Chien-Cage-caisse-et-transport.jpg",
+    "name": "Pet Carrier Bag",
+    "category": "Accessories",
+    "price": 35,
+    "description": "Carry your pets comfortably during travel."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/nsCRrq0N/This-puppy-chew-toys-include-7-toys-1-dog.jpg",
+    "name": "Dog Chew Toy",
+    "category": "Accessories",
+    "price": 9,
+    "description": "Durable chew toy for healthy teeth."
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/NgqyK4Tb/Pink-Rhinestone-Dog-Collar-and-Leash-Set-with-Bow.jpg",
+    "name": "Pet Bowtie",
+    "category": "Accessories",
+    "price": 6,
+    "description": "Cute bowtie for special occasions."
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/bjmrt5b0/Pet-Cooling-Mat-Heat-Dissipation-Breathable.jpg",
+    "name": "Cooling Pet Mat",
+    "category": "Accessories",
+    "price": 22,
+    "description": "Keep your pet cool in hot weather."
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/1YrbLnxb/Meet-the-ultimate-Soho-Dog-Walking-Set-a-crazy.jpg",
+    "name": "Adjustable Dog Harness",
+    "category": "Accessories",
+    "price": 18,
+    "description": "Comfortable harness for daily walks."
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/1YrbLnxb/Meet-the-ultimate-Soho-Dog-Walking-Set-a-crazy.jpg",
+    "name": "Pet Toothbrush",
+    "category": "Accessories",
+    "price": 5,
+    "description": "Maintain your pet’s dental hygiene easily."
+  }
+]

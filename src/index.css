@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@keyframes walkLeftRight {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(20px); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes tiltTop {
+  0%, 100% {
+    transform: rotateX(0deg);
+  }
+  25% {
+    transform: rotateX(30deg);
+  }
+  75% {
+    transform: rotateX(-30deg);
+  }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-10deg); }
+  50% { transform: rotate(10deg); }
+}
+
+.animate-wiggle {
+  animation: wiggle 1.5s ease-in-out infinite;
+}
